@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=b19cdb&height=250&section=header&text=Just+kod+it!&fontSize=90&animation=twinkling&fontColor=2E2E2E)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Just+kod+it!&fontSize=90&animation=twinkling&fontColor=FFFFFF)
 
 <div align="center">
 
@@ -20,8 +20,8 @@
   
 ## 💌 Reach me 💌
 <p>
-  <a href="https://justkod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="mailto:luckoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/luckoding@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://justkod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=plastic&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:luckoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/luckoding@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 </p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justkod&show_icons=true&theme=radical)
