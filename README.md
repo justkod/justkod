@@ -1,9 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Just+kod+it!&fontSize=90&animation=twinkling&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4565b2&height=250&section=header&text=Just+kod+it!&fontSize=90&animation=twinkling&fontColor=FFFFFF)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=33&duration=5000&color=9D6EF7&center=true&vCenter=true&width=550&height=80&lines=Hi+there%F0%9F%91%8B%2C+welcom+to+my+GitHub!!+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=33&duration=5000&color=0180d4&center=true&vCenter=true&width=550&height=80&lines=Hi+there%F0%9F%91%8B%2C+welcom+to+my+GitHub!!+;)](https://git.io/typing-svg)
 <div align=center>
 
 ## 💻 Tech Stacks 💻
