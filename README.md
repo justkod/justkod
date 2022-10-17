@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=b19cdb&height=250&section=header&text=Justkod!&fontSize=90&animation=twinkling&fontColor=2E2E2E)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b19cdb&height=250&section=header&text=Just+kod+it!&fontSize=90&animation=twinkling&fontColor=2E2E2E)
 
 <div align="center">
 
