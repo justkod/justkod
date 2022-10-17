@@ -19,7 +19,10 @@
 </p>
   
 ## 💌 Reach me 💌
-<a href="https://justkod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=로고&logoColor=로고색상"/></a>
-
+<p>
+  <a href="https://justkod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:luckoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/luckoding@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justkod&show_icons=true&theme=radical)
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
+
