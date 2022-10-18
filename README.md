@@ -7,17 +7,35 @@
 <div align=center>
 
 ## 💻 Tech Stacks 💻
+  <br>
+<p align="center">
+🔥 &nbspmain stack
+  </p>
+  <br>
 <p align="center">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+<img alt= "icon" wide="60" height="60" src ="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 <img alt= "icon" wide="60" height="60" src ="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-
 </p>
+  <br>
+<p align="center">
+📝 &nbspstudying
+  </p>
+  <br>
+<p align="center">
+<img alt= "icon" wide="60" height="60" src ="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+<img alt= "icon" wide="60" height="60" src ="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+<img alt= "icon" wide="60" height="60" src ="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg">
+<img alt= "icon" wide="60" height="60" src ="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg">
+<img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/kubernetes-icon.svg">
+</p>  
+  <br>
   
 ## 💌 Reach me 💌
 <p>
