@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=33&duration=5000&color=0180d4&center=true&vCenter=true&width=550&height=80&lines=Hi+there!%F0%9F%91%8B%2C+Welcom+to+my+GitHub!!+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=33&duration=5000&color=0180d4&center=true&vCenter=true&width=550&height=80&lines=Hi+there!%F0%9F%91%8B%2C+Welcom+to+my+GitHub!!!+;)](https://git.io/typing-svg)
 <div align=center>
 
 ## 💻 Tech Stacks 💻
